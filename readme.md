@@ -16,7 +16,7 @@
 * 开发环境：jdk8、IDEA
 * 代码组织形式：
 
-![contents](./image/代码组织形式.bmp)
+![contents](https://github.com/AnonymityWM/saolei/blob/master/image/%E4%BB%A3%E7%A0%81%E7%BB%84%E7%BB%87%E5%BD%A2%E5%BC%8F.bmp)
 
 # 2、设计思路
 
