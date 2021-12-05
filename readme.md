@@ -1,4 +1,4 @@
-1、项目简介
+# 1、项目简介
 
 * 采用java swing设计扫雷游戏软件，设计目标如下：
 
@@ -16,12 +16,11 @@
 * 开发环境：jdk8、IDEA
 * 代码组织形式：
 
-![contents](https://github.com/AnonymityWM/saolei/blob/master/image/%E4%BB%A3%E7%A0%81%E7%BB%84%E7%BB%87%E5%BD%A2%E5%BC%8F.bmp)
+<img src="image/代码组织形式.bmp" width=450/>
 
 # 2、设计思路
 
-![contents](./image/项目流程图.png)
-
+<img src="image/项目流程图.png" width=450 />
 
 # 3、游戏效果图
 
@@ -29,15 +28,13 @@
 
 <img src="image/扫雷游戏总体介绍.gif" width=500/>
 
-![contents](./image/扫雷游戏总体介绍.gif)
-
 玩完一整局的游戏效果图：
 
-![contents](./image/玩完一整局.gif)
+<img src="image/玩完一整局.gif" width=300/>
 
 踩雷或标错的游戏效果图：
 
-![contents](./image/踩雷或标错.gif)
+<img src="image/踩雷或标错.gif" width=300/>
 
 # 4、其他
 
@@ -47,7 +44,7 @@
 
 File->Settings->Build...->Compiler，在VM options里添加：-Dfile.encoding=UTF-8（如果你不行，可以尝试设置为-Dfile.encoding=UTF-8）
 
-![contents](./image/swing界面乱码.png)
+<img src="image/swing界面乱码.png" width=650/>
 
 ## 4.2 打jar包并转为exe可执行文件
 
@@ -55,4 +52,4 @@ File->Settings->Build...->Compiler，在VM options里添加：-Dfile.encoding=UT
 
 * 注意将image文件夹复制到exe同一文件夹下
 
-![contents](./image/exe文件.gif)
+<img src="image/exe文件.gif" width=350/>
