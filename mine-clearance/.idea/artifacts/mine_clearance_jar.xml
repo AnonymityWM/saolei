@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mine-clearance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mine_clearance_jar</output-path>
+    <root id="archive" name="mine-clearance.jar">
+      <element id="module-output" name="mine-clearance" />
+    </root>
+  </artifact>
+</component>
