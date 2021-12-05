@@ -27,6 +27,8 @@
 
 扫雷游戏总体介绍：
 
+<img src="image/扫雷游戏总体介绍.gif" width=500/>
+
 ![contents](./image/扫雷游戏总体介绍.gif)
 
 玩完一整局的游戏效果图：
