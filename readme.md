@@ -1,4 +1,4 @@
-# 1、项目简介
+1、项目简介
 
 * 采用java swing设计扫雷游戏软件，设计目标如下：
 
@@ -16,19 +16,26 @@
 * 开发环境：jdk8、IDEA
 * 代码组织形式：
 
-<img src="image/代码组织形式.bmp" width=450/>
+![contents](./image/代码组织形式.bmp)
 
 # 2、设计思路
 
-<img src="image/项目流程图.png" width=400/>
-
+![contents](./image/项目流程图.png)
 
 
 # 3、游戏效果图
 
-扫雷游戏总体介绍、玩完一整局、标错或放大的游戏效果图视频均在image文件夹下。
+扫雷游戏总体介绍：
 
+![contents](./image/扫雷游戏总体介绍.gif)
 
+玩完一整局的游戏效果图：
+
+![contents](./image/玩完一整局.gif)
+
+踩雷或标错的游戏效果图：
+
+![contents](./image/踩雷或标错.gif)
 
 # 4、其他
 
@@ -38,10 +45,12 @@
 
 File->Settings->Build...->Compiler，在VM options里添加：-Dfile.encoding=UTF-8（如果你不行，可以尝试设置为-Dfile.encoding=UTF-8）
 
-<img src=image/swing界面乱码.png width=700/>
+![contents](./image/swing界面乱码.png)
 
 ## 4.2 打jar包并转为exe可执行文件
 
 参考：https://blog.csdn.net/weixin_38310965/article/details/80392767
 
 * 注意将image文件夹复制到exe同一文件夹下
+
+![contents](./image/exe文件.gif)
