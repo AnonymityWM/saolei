@@ -20,7 +20,7 @@
 
 # 2、设计思路
 
-<img src="image/项目流程图.png" width=450 />
+<img src="image/项目流程图.png" width=400 style="align: center" />
 
 # 3、游戏效果图
 
