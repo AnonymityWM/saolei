@@ -10,7 +10,8 @@
 5. 准确地找出所有雷，将取得该局游戏的胜利。否则，将会弹出失败框。
 ```
 
-* 代码地址：https://github.com/AnonymityWM/saolei，其中`mine-clearance`是源代码，`可执行文件`下是扫雷程序exe文件，双击即可打开。
+* 代码地址：https://github.com/AnonymityWM/saolei
+* 目录中`mine-clearance`是源代码，`可执行文件`下是扫雷程序exe文件，双击即可打开。
 * 运行：下载代码导入IDEA即可运行`mainFrame.java`中的main方法
 * 开发环境：jdk8、IDEA
 * 代码组织形式：
